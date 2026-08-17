@@ -1,4 +1,5 @@
-function sayHi(name) {
+// Testing GitHub workflow
+// function sayHi(name) {
   return `Hello there ${name}`
 }
 
